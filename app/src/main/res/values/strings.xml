@@ -46,6 +46,7 @@
 
     <string name="com.twitter.sdk.android.CONSUMER_KEY">ms6rgSeE4jHN29tsCiIDVQ7ml</string>
     <string name="com.twitter.sdk.android.CONSUMER_SECRET">ktLKfqUmxyxVZQjxoVCYNzHAgBa1XWM0EG52nMnbnQXYeMDb6Z</string>
+    <string name="title_activity_account">account</string>
 
 
 </resources>
